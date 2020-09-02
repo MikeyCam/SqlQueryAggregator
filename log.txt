@@ -1,0 +1,7 @@
+2020-09-02 01:49:08 PM: INFO [main.py:62] Welcome to the SQL Data Aggregation Tool.
+2020-09-02 01:49:08 PM: INFO [main.py:54] query_four.sql successfully run.
+2020-09-02 01:49:08 PM: INFO [main.py:54] query_one.sql successfully run.
+2020-09-02 01:49:08 PM: ERROR [main.py:56] query_three.sql failed.
+2020-09-02 01:49:08 PM: INFO [main.py:54] query_two.sql successfully run.
+2020-09-02 01:49:08 PM: INFO [main.py:65] CSV Output generated 
+2020-09-02 01:49:08 PM: INFO [main.py:66] Consider your data aggregated :)
